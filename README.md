@@ -6,4 +6,4 @@ main.cpp為source/main.cpp
 
 targets.json 為mbed-os/targets/targets.json
 
-server.py為接受訊息的server程式
+hw2.py為接受訊息的server程式
